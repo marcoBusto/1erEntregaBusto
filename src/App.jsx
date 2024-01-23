@@ -15,7 +15,7 @@ function App() {
     <Container id='main'>
       <Navbar/>
       <div id='contenidos'>
-      <Greeting name="Tienda Demonia"/> 
+      <Greeting name="Demonios"/> 
       <h1>Tienda de Productos</h1>
       <ItemListContainter
         nombre="Mate premium"
